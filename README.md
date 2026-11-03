@@ -41,7 +41,7 @@ Choose your strategy based on your current goal:
    ```
 
 2. **Configure:**
-   Edit `config_advanced.py` with your LinkedIn credentials and OpenAI API key.
+   Edit `config_advanced.py` with your LinkedIn credentials and AI API key (OpenAI/Anthropic or Local AI).
 
 3. **Run:**
    ```bash
